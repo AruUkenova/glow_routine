@@ -1,4 +1,4 @@
-# course_app
+# glow_routine
 
 A new Flutter project.
 
